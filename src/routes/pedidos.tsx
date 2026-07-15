@@ -16,7 +16,7 @@ const PRODUTOS = [
 function PedidosPage() {
   // Estado para controlar qual produto está selecionado (começa no primeiro)
   const [selecionado, setSelecionado] = useState(PRODUTOS[0]);
-  const numeroWhatsApp = "553533632168";
+  const numeroWhatsApp = "5535991314468";
 
   const linkWhatsApp = `https://wa.me/${numeroWhatsApp}?text=${encodeURIComponent(
     `Olá! Gostaria de pedir: ${selecionado.nome} (${selecionado.tamanho})`

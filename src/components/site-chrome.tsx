@@ -35,12 +35,12 @@ export function SiteHeader() {
           ))}
         </nav>
         <a
-          href="https://wa.me/553533632168"
+          href="https://wa.me/5535991314468"
           target="_blank"
           rel="noreferrer"
           className="hidden rounded-full border border-gold/60 px-4 py-2 text-xs font-medium uppercase tracking-widest text-gold transition hover:bg-gold hover:text-forest-deep md:inline-flex"
         >
-          (35) 3363-2168
+          (35) 99131-4468
         </a>
       </div>
       <nav className="flex overflow-x-auto border-t border-white/5 px-4 py-2 lg:hidden">
@@ -85,13 +85,13 @@ export function SiteFooter() {
         <div className="text-sm text-cream/70">
           <h4 className="mb-3 font-display text-lg text-cream">Contato</h4>
           <p>
-            <a href="tel:+553533632168" className="hover:text-gold">Disque Engenho: (35) 3363-2168</a>
+            <a href="tel:+5535991314468" className="hover:text-gold">Disque Engenho: (35)- 99131-4468</a>
           </p>
           <p>
             <a href="mailto:contato@aguasengenhodaserra.com.br" className="hover:text-gold">contato@aguasengenhodaserra.com.br</a>
           </p>
           <p>
-            <a href="https://wa.me/553533632168" target="_blank" rel="noreferrer" className="hover:text-gold">WhatsApp</a>
+            <a href="https://wa.me/5535991314468" target="_blank" rel="noreferrer" className="hover:text-gold">WhatsApp</a>
           </p>
         </div>
       </div>

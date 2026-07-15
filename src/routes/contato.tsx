@@ -33,13 +33,13 @@ function ContatoPage() {
         <div className="space-y-6">
           <div className="rounded-xl border border-white/5 bg-forest/30 p-6">
             <div className="text-xs uppercase tracking-widest text-gold/80">Disque Engenho</div>
-            <a href="tel:+553533632168" className="mt-2 block font-display text-3xl text-cream hover:text-gold">
-              (35) 3363-2168
+            <a href="tel:+5535991314468" className="mt-2 block font-display text-3xl text-cream hover:text-gold">
+              (35) 99131-4468
             </a>
           </div>
           <div className="rounded-xl border border-white/5 bg-forest/30 p-6">
             <div className="text-xs uppercase tracking-widest text-gold/80">WhatsApp</div>
-            <a href="https://wa.me/553533632168" target="_blank" rel="noreferrer" className="mt-2 block font-display text-3xl text-cream hover:text-gold">
+            <a href="https://wa.me/5535991314468" target="_blank" rel="noreferrer" className="mt-2 block font-display text-3xl text-cream hover:text-gold">
               Enviar mensagem
             </a>
           </div>

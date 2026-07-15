@@ -59,7 +59,7 @@ function HomePage() {
           </p>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <a
-              href="https://wa.me/553533632168"
+              href="https://wa.me/5535991314468"
               target="_blank"
               rel="noreferrer"
               className="rounded-full bg-gold px-8 py-3 text-sm font-medium uppercase tracking-widest text-forest-deep transition hover:bg-cream"
